@@ -8,10 +8,8 @@ A real-world student attendance system which recognizes face of student and atte
 
 ## Authors
 
-- [@TharunreddyR](https://github.com/R-TharunReddy)
-- [@Vamsi Bhogaraju](https://github.com/vamsibhogaraju)
-- [@Navamshuram](https://github.com/R-TharunReddy)
-
+@AnudeepAnu
+@PRAYAGA
 
 ## Demo
 
@@ -38,7 +36,7 @@ To use this project run
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a Cloud developer...
 
 
 ## Installation
@@ -48,12 +46,7 @@ Install my-project with the github source code option
 ```bash
   install required libraries from requirments.txt
 ```
-    
-## Screenshots
-
-![App Screenshot ](https://drive.google.com/file/d/1-t_TVTF4O1qgV9O5Q9FfpDAzvBZAam3O/view?usp=sharing)
-
-
+  
 ## Tech Stack
 
 **Server:** Python and its libraries,computer vision,Machine learning
